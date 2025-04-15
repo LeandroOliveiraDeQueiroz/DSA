@@ -47,6 +47,7 @@ var longestPalindrome = function(s) {
         const evenLength = even.end - even.start
         const bigOdd = oddLength >= evenLength;
 
+        //TODO - remove duplicate code - create a function
         if(bigOdd && oddLength > maxEnd - maxStart) {
             maxStart = odd.start;
             maxEnd = odd.end;
