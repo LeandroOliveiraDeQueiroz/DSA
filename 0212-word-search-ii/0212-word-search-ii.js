@@ -44,9 +44,11 @@ const dfs = (board, children, i, j, result, acc="") => {
     const index = Node.mapLetterToChildren(temp);
     const node = children[index]
     if(node) {
-        acc += temp; // TODO can be optmize
-        if(node.endOfWord)
-            result.add(acc);
+        // acc += temp; // TODO can be optmize
+        if(node.endOfWord) {
+            // result.add(acc);
+            result.add(node.word)
+        }
 
         dfs(board, node.children, i-1, j, result, acc);
         dfs(board, node.children, i+1, j, result, acc);
@@ -63,6 +65,7 @@ class Node {
         this.value = value;
         this.children = new Array(26);
         this.endOfWord = false;
+        this.word = "";
     }
 
     static mapLetterToChildren (letter) {
@@ -87,6 +90,7 @@ class Trie {
         }
 
         curr.endOfWord = true;
+        curr.word = word;
     }
 
     hasFirst(letter) {
