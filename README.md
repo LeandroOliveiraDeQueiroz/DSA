@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## String Matching
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
