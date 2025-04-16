@@ -1,4 +1,17 @@
 
+/*  
+    Insert - each one
+        TC  O(l)
+        SC  O(l)
+    
+
+    search:
+        TC O(w*l)
+        SC O(l)
+    
+*/
+
+
 var WordDictionary = function() {
     this.root = new Map();
 };
