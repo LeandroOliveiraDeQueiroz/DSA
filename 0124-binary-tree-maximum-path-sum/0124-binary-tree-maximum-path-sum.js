@@ -54,6 +54,23 @@ var maxPathSum = function(root) {
     return max;
 };
 
+/*
+    Simple way, but limit of negative numbers:
+
+    const getMaxPathSum = (node) => {
+    if(!node)
+        return {max: -1001, maxPath: -1001};
+
+    const left = getMaxPathSum(node.left);
+    const right = getMaxPathSum(node.right);
+
+    const maxPath = Math.max(node.val, left.maxPath + node.val, node.val + right.maxPath);
+    const max = Math.max(maxPath, left.maxPath + node.val + right.maxPath, left.max, right.max);
+
+    return {max, maxPath};
+}
+*/
+
 const getMaxPathSum = (node) => {
     if(!node)
         return {};
@@ -82,3 +99,4 @@ const getMaxPathSum = (node) => {
 
     return {max, maxPath};
 }
+
