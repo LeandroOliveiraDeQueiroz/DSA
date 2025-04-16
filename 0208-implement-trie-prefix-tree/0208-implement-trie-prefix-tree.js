@@ -1,4 +1,31 @@
 
+/*
+    Insert:
+    Time complexity = O(1*l) 
+    Space complexity = O(1*w*l)
+
+    Search:
+    Time complexity = O(1*l) 
+    Space complexity = O(1)
+
+    StartsWith:
+    Time complexity = O(1*l) 
+    Space complexity = O(1)
+    w = words quantity
+    l = letter quantity
+
+
+    Search and StartWith can be made by the same function:
+        Search:
+            get a node based of a word;
+            Check if the node and node.children[26] (*) exists
+
+        Search:
+            get a node based of a word;
+            Check if the node exists
+*/
+
+
 class Node {
     constructor(val) {
         this.value = val;
