@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
