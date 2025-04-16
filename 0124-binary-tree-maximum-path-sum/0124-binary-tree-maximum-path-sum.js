@@ -56,13 +56,29 @@ var maxPathSum = function(root) {
 
 const getMaxPathSum = (node) => {
     if(!node)
-        return {max: -1001, maxPath: -1001};
+        return {};
 
     const left = getMaxPathSum(node.left);
     const right = getMaxPathSum(node.right);
 
-    const maxPath = Math.max(node.val, left.maxPath + node.val, node.val + right.maxPath);
-    const max = Math.max(maxPath, left.maxPath + node.val + right.maxPath, left.max, right.max);
+    let maxPath = node.val;
+
+    if(left.maxPath !== undefined)
+        maxPath = Math.max(maxPath, left.maxPath + node.val)
+
+    if(right.maxPath !== undefined)
+        maxPath = Math.max(maxPath, right.maxPath + node.val)
+    
+    let max = maxPath;
+
+    if(left.maxPath !== undefined &&  right.maxPath !== undefined)
+        max = Math.max(max, left.maxPath + node.val + right.maxPath);
+
+    if(left.max !== undefined)
+        max = Math.max(max, left.max);
+        
+    if(right.max !== undefined)
+        max = Math.max(max, right.max);
 
     return {max, maxPath};
 }
