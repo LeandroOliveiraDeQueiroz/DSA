@@ -8,18 +8,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -27,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## String
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
