@@ -64,9 +64,5 @@ const getMaxPathSum = (node) => {
     const maxPath = Math.max(node.val, left.maxPath + node.val, node.val + right.maxPath);
     const max = Math.max(maxPath, left.maxPath + node.val + right.maxPath, left.max, right.max);
 
-    console.log('node', node.val)
-    console.log('maxPath', maxPath)
-    console.log('max', max)
-
     return {max, maxPath};
 }
