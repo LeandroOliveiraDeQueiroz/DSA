@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
