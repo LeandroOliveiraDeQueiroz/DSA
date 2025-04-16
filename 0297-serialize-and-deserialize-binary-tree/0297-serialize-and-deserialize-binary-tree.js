@@ -30,10 +30,11 @@
     easy to create, 
     had to go back
 
-    TC O(nlog)
+    TC O(n)
 
  */
 
+/* PREORDER WAY */
  /**
  * Encodes a tree to a single string.
  *
@@ -43,7 +44,7 @@
 var serialize = function(root) {   
     const inOrderStringBuilder = [];
     getInOrderString(root, inOrderStringBuilder);
-    
+
     return inOrderStringBuilder.join(',');
 };
 
@@ -86,7 +87,8 @@ var deserialize = function(data) {
     return createTreeFrom(stringBuilder);
 };
 
-
+/* HEAP WAY O(n) */
+/* Works, but memory overflow */
 // /**
 //  * Encodes a tree to a single string.
 //  *
@@ -133,24 +135,24 @@ var deserialize = function(data) {
 // };
 
 
-const getTreeFromStringBuilder = (stringBuilder, index) => {
-    if(index >= stringBuilder.length)
-        return null;
+// const getTreeFromStringBuilder = (stringBuilder, index) => {
+//     if(index >= stringBuilder.length)
+//         return null;
 
-    const value = stringBuilder[index]
+//     const value = stringBuilder[index]
 
-    if(value === 'null' || value === '') 
-        return null;
+//     if(value === 'null' || value === '') 
+//         return null;
 
-    const parsedValue = parseInt(value);
+//     const parsedValue = parseInt(value);
 
-    const node = new Node(parsedValue);
+//     const node = new Node(parsedValue);
     
-    node.left = getTreeFromStringBuilder(stringBuilder, index* 2 + 1);
-    node.right = getTreeFromStringBuilder(stringBuilder, index* 2 + 2);
+//     node.left = getTreeFromStringBuilder(stringBuilder, index* 2 + 1);
+//     node.right = getTreeFromStringBuilder(stringBuilder, index* 2 + 2);
 
-    return node;
-}
+//     return node;
+// }
 
 class Node {
     constructor(val) {
