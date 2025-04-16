@@ -37,8 +37,6 @@ var buildTree = function(preorder, inorder) {
             }
         }
 
-
-
         if(inOrderIndex === -1)
             return null;
 
