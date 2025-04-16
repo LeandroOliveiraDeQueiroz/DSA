@@ -40,13 +40,41 @@
         1 child
 
  */
+
+class LinkedList {
+    constructor() {
+        this.dummyHead = this.tail = {next: null};
+        this.quantity = 0;
+    }
+
+    push(value) {
+        this.tail.next = {value:value, next: null}; 
+        this.tail = this.tail.next;
+        this.quantity++;
+    }
+
+    shift() {
+        if(this.quantity === 0)
+            throw new Error('Empty queue');
+
+        this.dummyHead = this.dummyHead.next;
+        this.quantity--;
+        return this.dummyHead.value;
+    }
+
+    length() {
+        return this.quantity;
+    }
+}
+
 var levelOrder = function(root) {
     if(!root) return [];
-    const queue = [root];
+    const queue = new LinkedList();
+    queue.push(root);
     const result = [];
 
-    while(queue.length !== 0) {
-        const queueLength = queue.length;
+    while(queue.length() !== 0) {
+        const queueLength = queue.length();
         const actualHeightNodes = [];
         for(let i = 0; i < queueLength; i++) {
             const node = queue.shift();
