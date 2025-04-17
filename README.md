@@ -76,16 +76,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -114,8 +117,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
