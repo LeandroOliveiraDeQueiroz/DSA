@@ -4,27 +4,15 @@
  * @return {number}
  */
 var coinChange = function(coins, amount) {
-    const array = new Array(amount + 1);
-    array[0] = 0;
+    const min_coins = new Array(amount + 1).fill(amount + 1);
+    min_coins[0] = 0;
 
-    // for(const coin of coins) {
-    //     if(coin <= amount)
-    //         array[coin] = 1
-    // }
-
-    for(let i = 1; i <= amount; i++) {
-        let min = amount + 1; //default value
-
+    for(let actualAmount = 1; actualAmount <= amount; actualAmount++) {
         for(const coin of coins) {
-            if(i - coin >= 0) {
-                min = Math.min(min, array[i-coin] + 1);
-            }
+            if(actualAmount - coin >= 0)
+                min_coins[actualAmount] = Math.min(min_coins[actualAmount], 1 + min_coins[actualAmount - coin]);
         }
-
-        array[i] = min;
     }
 
-    console.log('array:', array)
-
-    return array[amount] <= amount ? array[amount] : -1;
+    return min_coins[amount] <= amount ? min_coins[amount] : -1;
 };
