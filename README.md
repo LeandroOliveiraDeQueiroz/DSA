@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
+| [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
