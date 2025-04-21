@@ -16,7 +16,7 @@ var canJump = function(nums) {
         dp[i] = isTrue(dp, i, Math.min(i + num, nums.length -1))
     }
 
-    console.log(dp);
+    // console.log(dp);
 
     return dp[0];
 };
