@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0377-combination-sum-iv) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
