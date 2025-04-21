@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1250-longest-common-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/1250-longest-common-subsequence) |
 ## Design
 |  |
 | ------- |
