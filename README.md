@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
