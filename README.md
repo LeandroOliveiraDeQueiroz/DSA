@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0198-house-robber](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
