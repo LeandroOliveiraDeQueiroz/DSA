@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0057-insert-interval) |
@@ -179,9 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0055-jump-game) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
