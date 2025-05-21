@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/LeandroOliveiraDeQueiroz/DSA/tree/master/0300-longest-increasing-subsequence) |
